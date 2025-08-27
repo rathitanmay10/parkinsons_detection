@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     A[Start: Get the raw voice data] --> B{Step 1: Prepare the Data};
     B --> C{Step 2: Create New Data <br> (The Forger vs. Expert Game)};
